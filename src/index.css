@@ -17,8 +17,14 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    --primary: 200 95% 45%;
+    --primary-foreground: 0 0% 100%;
+    
+    /* Healthcare-specific colors */
+    --medical-blue: 200 95% 45%;
+    --medical-green: 142 76% 36%;
+    --medical-light: 200 50% 96%;
+    --medical-border: 200 30% 85%;
 
     --secondary: 210 40% 96.1%;
     --secondary-foreground: 222.2 47.4% 11.2%;
@@ -65,8 +71,14 @@ All colors MUST be HSL.
     --popover: 222.2 84% 4.9%;
     --popover-foreground: 210 40% 98%;
 
-    --primary: 210 40% 98%;
-    --primary-foreground: 222.2 47.4% 11.2%;
+    --primary: 200 95% 45%;
+    --primary-foreground: 0 0% 100%;
+    
+    /* Healthcare-specific colors */
+    --medical-blue: 200 95% 45%;
+    --medical-green: 142 76% 36%;
+    --medical-light: 200 50% 20%;
+    --medical-border: 200 20% 25%;
 
     --secondary: 217.2 32.6% 17.5%;
     --secondary-foreground: 210 40% 98%;
